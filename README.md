@@ -10,3 +10,8 @@
     <li>Mi linkedin: <a href="https://www.linkedin.com/in/austry-castillo/" target="_blank">austrycastillo</a></li>    
   <li>Mi instagram: <a href="https://www.instagram.com/austry.profe/" target="_blank">@austry.profe</a></li>  
 </ul>
+<div align="center">
+    <p>
+        <strong>🔥 JAVA | PHP | | SQL | JAVASCRIPT 🔥</strong>
+    </p>
+</div>
