@@ -4,6 +4,10 @@
     <h3>
         Ingeniera en Informática especializada en backend, docente, líder de proyectos y emprendedora.        
     </h3>    
+    <p>
+        Todos podemos aprender a programar
+... lo importante es que seas constante y confies en ti, cada uno tiene su ritmo.
+    </p>
 </div>
 <ul>
     <li>Mi blog: <a href="https://austrycastillo.net/blog.html" target="_blank">https://austrycastillo.net/blog.html</a></li>
