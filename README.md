@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://i.gifer.com/6M8R.gif" alt="developer" width="20%">
+    <img src="https://austrycastillo.net/img/austry.png" alt="developer" width="20%">
     <h1 align="center"> Hola devs 🙋‍♀️ soy Austry Castillo</h1>
     <h3>
         Ingeniera en Informática especializada en backend, docente, líder de proyectos y emprendedora.        
