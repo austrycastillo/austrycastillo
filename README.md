@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="[https://camo.githubusercontent.com/f8561052d5519d5b219d3d02cdf56d0969d2cdab435e6739ba6b7cb26866f5fe/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966](https://i.gifer.com/VNCa.gif)" alt="developer" width="20%">
+    <img src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="developer" width="20%">
     <h1 align="center"> Hola devs 🙋‍♀️ soy Austry Castillo</h1>
     <h3>
         Ingeniera en Informática especializada en backend, docente, líder de proyectos y emprendedora.        
