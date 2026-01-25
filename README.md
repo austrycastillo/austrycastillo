@@ -16,6 +16,6 @@
 </ul>
 <div align="center">
     <p>
-        <strong>🔥 JAVA | PHP | | SQL | JAVASCRIPT 🔥</strong>
+        <strong>🔥 JAVA | PHP | SQL | JAVASCRIPT 🔥</strong>
     </p>
 </div>
